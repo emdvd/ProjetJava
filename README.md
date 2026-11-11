@@ -1,6 +1,7 @@
 # ProjetJava
 
 Projet Java d'introduction au dépôt GitHub.
+Ajout d'une ligne de modif readme test git and
 
 ## Structure
 
