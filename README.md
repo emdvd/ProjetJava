@@ -1,6 +1,6 @@
 # ProjetJava
 
-Petit projet Java d'introduction à la programmation orientée objet.
+Projet Java d'introduction au dépôt GitHub.
 
 ## Structure
 
